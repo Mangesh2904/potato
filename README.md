@@ -52,7 +52,6 @@ A deep learning model to classify potato leaf diseases using TensorFlow/Keras.
 ## Model Files
 The trained model file is not included in the repository due to size limitations. You can:
 1. Train the model yourself using the instructions above
-2. Download the pre-trained model from [Google Drive Link] (coming soon)
 
 ## Project Structure
 - `train_model.py`: Script to train the CNN model
